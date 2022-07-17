@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxiaoyu)](https://github.com/chuxiaoyu/github-readme-stats)
+[![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxiaoyu)](https://github.com/chuxiaoyu)
 
 <!--
 **chuxiaoyu/chuxiaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
