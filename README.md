@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 [![Xiaoyu Chu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxiaoyu)](https://github.com/chuxiaoyu)
 
 <!--
